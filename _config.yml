@@ -1,0 +1,7 @@
+theme: jekyll-theme-tactile
+title: Sairun's Site
+description: A homepage built with GitHub Pages 
+
+header_pages:
+  - about.md
+  - projects.md
