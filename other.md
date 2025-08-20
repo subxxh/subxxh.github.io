@@ -3,7 +3,7 @@ layout: page
 title: "Projects & Experiences"
 permalink: /other/
 ---
----
+
 
 
 ---
@@ -12,14 +12,14 @@ permalink: /other/
 **World Happiness Report Analysis**
 - Analyzed factors influencing healthy life expectancy and predicted outcomes using ensemble models.
 - Python, Pandas, Scikit-learn, Random Forest, Decision Trees
--  [GitHub](https://github.com/subxxh/LifeExpectancyML)
+-  [WHR Analysis](https://github.com/subxxh/LifeExpectancyML)
 
-<br>
+
 ## More TBA!
 
 ---
 
-## Experiences
+## Experience
 
 **Data Science Fellow - CUNY Tech Prep**
 - Selected for a competitive data science fellowship with students from across 11 colleges where fellows create technical projects using tools such as Pandas, Numpy, Scikit-learn, and SQL.
