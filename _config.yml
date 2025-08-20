@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: sairuns base
+title: home
 
 # Your name to show in the footer
 author: Sairun Alam
@@ -130,11 +130,11 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#ffb6c1"
+page-col: "#FFE6EE"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "##EDF9EB"
+navbar-col: "#EDF9EB"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
