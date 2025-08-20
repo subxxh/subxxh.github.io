@@ -6,7 +6,7 @@ permalink: /aboutme/
 
 # About Me
 
-Hi! My name is [Sairun Alam].  
+Hi! My name is Sairun Alam.  
 I’m passionate about data science, machine learning, and leetcoding!  
 
 About me:
